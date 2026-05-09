@@ -1,0 +1,38 @@
+daylight_baseline:
+  title: Daylight baseline
+  prompt: >
+    Preserve the original cabin scene in natural daylight. Keep the driver,
+    camera angle, cabin geometry, and apparent activity unchanged.
+
+night_cabin:
+  title: Night cabin
+  prompt: >
+    Transform the same cabin scene into night-time lighting with dashboard
+    glow and low exterior illumination while preserving the driver's identity,
+    pose, and vehicle interior layout.
+
+harsh_sunlight:
+  title: Harsh sunlight
+  prompt: >
+    Recreate the same scene with strong direct sunlight entering the cabin,
+    high contrast, bright highlights, and realistic shadows across the driver
+    and dashboard.
+
+low_light:
+  title: Low-light cabin
+  prompt: >
+    Recreate the cabin under dim low-light conditions with reduced visibility
+    while preserving the driver's face, body posture, and camera perspective.
+
+sunglasses_occlusion:
+  title: Sunglasses occlusion
+  prompt: >
+    Add realistic sunglasses or a hand near the driver's face as an occlusion,
+    while keeping the rest of the cabin scene and driver pose consistent.
+
+driver_looking_down:
+  title: Driver looking down
+  prompt: >
+    Generate a counterfactual version where the driver appears to be looking
+    down in a distraction-like scenario, while preserving the same cabin,
+    lighting baseline, and camera viewpoint.
