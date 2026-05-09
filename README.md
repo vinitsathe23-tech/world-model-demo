@@ -1,6 +1,6 @@
 # world-model-demo
 
-A small, beginner-friendly demo for exploring World Foundation Models in an ADAS/DMS context.
+World foundation model demos for learning, with a small beginner-friendly scaffold for exploring World Foundation Models in an ADAS/DMS context.
 
 The project starts with a practical scaffold:
 
